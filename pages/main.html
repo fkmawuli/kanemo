@@ -1,0 +1,30 @@
+<!-- Content where the literature books are displayed -->
+<div class="container">
+    <h2 class="homepage-section-title">Featured African Literature</h2>
+
+    <!--<div class="container">-->
+    <div class="row">
+        <div class="col-md-4 col-sm-4" ng-repeat="book in books | limitTo : 6 | filter:searchBox">
+
+            <div class="thumbnail">
+                <img height="500" width="550" class="img-rounded" ng-src="images/{{book.cover||'tile'}}.jpg">
+                <div class="caption">
+                    <h3>{{book.title}}</h3>
+                    <p><strong>Author :</strong> {{book.author}}</p>
+                    <p><strong>Year Of Publication :</strong>{{book.yearOfPublication}}</p>
+                    <div ng-init="desc=false">
+                        <button tooltip-placement="{{placement.selected}}" uib-tooltip="{{book.description}}"
+                                class="btn btn-mini btn-info" ng-mouseover="desc=true" ng-mouseleave="desc=false">
+                            <strong>Description</strong></button>
+                        <!--<div class="" ng-show="desc">{{book.escription}}</div>-->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div><!--End of location for the display of books content-->
+
+
+
+    <!--the <uib-pagers is a ui-bootstrap framework that helps implement the pager on the page-->
+    <uib-pager total-items="totalItems" next-text="next" previous-text="Previous" ng-model="currentPage" items-per-page="6" ng-change="pageChange(currentPage)"></uib-pager>
+</div>

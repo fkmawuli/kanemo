@@ -1,0 +1,57 @@
+.container{
+    /*width: 50px;
+    height: 200px;
+    margin: 20px 0 0 40px;
+    float: left;
+    background-color: ghostwhite;
+    border: 1px silver;
+    padding: 10px 20px;*/
+}
+.custad{
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin:  5% 0;
+    text-shadow: 3px 3px 2px #ccc;
+    transition: 0.5s;
+}
+.custad:hover{
+    box-shadow: 3px 3px 0 transparent;
+    transition: 0.5s;
+}
+h3{
+  text-align: center;
+  font-family: 'Tangerine',serif;
+  font-size: 30px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+em{
+  text-align: center;
+}
+@font-face {
+  font-family: 'Tangerine';
+  font-weight: 400;
+  font-style: normal;
+  src: url('../fonts/Tangerine-regular/Tangerine-regular.eot');
+  src: url('/fonts/Tangerine-regular/Tangerine-regular.eot?#iefix') format('embedded-opentype'),
+       local('Tangerine'),
+       local('Tangerine-regular'),
+       url('/fonts/Tangerine-regular/Tangerine-regular.woff2') format('woff2'),
+       url('/fonts/Tangerine-regular/Tangerine-regular.woff') format('woff'),
+       url('/fonts/Tangerine-regular/Tangerine-regular.ttf') format('truetype'),
+       url('/fonts/Tangerine-regular/Tangerine-regular.svg#Tangerine') format('svg');
+}
+.homepage-section-title{
+    text-align: center;
+    padding: 30px 0 0 0;
+    font-family: 'Tangerine', serif;
+    font-size: 100px;
+}
+.navbar-brand{
+    font-family: 'Tangerine', serif;
+    font-size: 400px;
+    color: coral;
+}
+.list-inline{
+    padding-top: 15px;
+    padding-right: 20px;
+}

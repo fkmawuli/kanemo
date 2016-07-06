@@ -1,0 +1,101 @@
+[
+    {   "id" : 1,
+        "title": "No Sweetness Here",
+        "author": "Ama Atta Aidoo",
+        "yearOfPublication" : "1980",
+        "description" : "In this collection, Ama Aita Aidoo explores postcolonial life  in Ghana with her characteristic honesty and humor. Tradition                      wrestles with new urban influences as Africans try to sort out their identity in a changing culture. True to the tradition of                       African storytelling, the characters come to life through their distinct voices and speech. If there is no sweetness, there is                     the salt essential to life, even if it comes from tears, and the strength that comes from a history of endurance. ",
+         "cover" : "nosweetnesshere"
+    },
+    {
+        "id" : 2,
+        "title": "Things Fall Apart",
+        "author": "Chinua Achebe",
+        "yearOfPublication" : "1958",
+        "description" :
+                      "The novel follows the life of Okonkwo, an Igbo leader and local wrestling champion in the fictional Nigerian village of Umuofia. The work is split into three parts, the first describing his family and personal history, the customs and society of the Igbo, and the second and third sections introduce the influence of British colonialism and Christian missionaries on the Igbo community.",
+         "cover" : "chinua-achebe-things-fall-apart"
+    },
+    {
+        "id" : 3,
+        "title": "Arrow of God",
+        "author": "Chinua Achebe",
+        "yearOfPublication" : "1964",
+        "description" :
+                      "The novel is set amongst the villages of the Igbo people in British Nigeria during the 1920s. Ezeulu is the chief priest of the god Ulu, worshipped by the six villages of Umuaro. The book begins with Ezeulu and Umuaro fighting against a nearby village, Okperi. The conflict is abruptly resolved when T.K. Winterbottom, the British colonial overseer, intervenes.",
+         "cover" : "arrow_of_God"
+    },
+    {
+        "id" : 4,
+        "title": "The gods are not to blame",
+        "author": "Ola Rotimi",
+        "yearOfPublication" : "1971",
+        "description" : 
+                        "The Gods Are Not To Blame is a 1968 play and a 1971 novel by Ola Rotimi.An adaptation of the Greek classic Oedipus Rex, the story centres on Odewale, who is lured into a false sense of security, only to somehow get caught up in a somewhat consanguineous trail of events by the gods of the land.",
+         "cover" : ""
+    },
+    {
+        "id" : 5,
+        "title": "The gods are not to blame",
+        "author": "Ola Rotimi",
+        "yearOfPublication" : "1990",
+        "description" : "The gods are not to blame",
+         "cover" : "tile"
+    },
+  {
+        "id" : 6,
+        "title": "The gods are not to blame",
+        "author": "Ola Rotimi",
+        "yearOfPublication" : "1990",
+        "description" : "The gods are not to blame",
+         "cover" : ""
+    },
+    {
+        "id" : 7,
+        "title": "The gods are not to blame",
+        "author": "Ola Rotimi",
+        "yearOfPublication" : "1990",
+        "description" : "The gods are not to blame",
+         "cover" : ""
+    },
+    {
+        "id" : 8,
+        "title": "The gods are not to blame",
+        "author": "Ola Rotimi",
+        "yearOfPublication" : "1990",
+        "description" : "The gods are not to blame",
+         "cover" : ""
+    },
+  {
+        "id" : 9,
+        "title": "The gods are not to blame",
+        "author": "Ola Rotimi",
+        "yearOfPublication" : "1990",
+        "description" : "The gods are not to blame",
+         "cover" : ""
+    },
+    {
+        "id" : 10,
+        "title": "The gods are not to blame",
+        "author": "Ola Rotimi",
+        "yearOfPublication" : "1990",
+        "description" : "The gods are not to blame",
+         "cover" : ""
+    },
+    {
+        "id" : 11,
+        "title": "The gods are not to blame",
+        "author": "Ola Rotimi",
+        "yearOfPublication" : "1990",
+        "description" : "The gods are not to blame",
+         "cover" : ""
+    },
+
+    {
+        "id" : 12,
+        "title": "The gods are not to blame",
+        "author": "Ola Rotimi",
+        "yearOfPublication" : "1990",
+        "description" : "The gods are not to blame",
+         "cover" : ""
+    }
+ ]
